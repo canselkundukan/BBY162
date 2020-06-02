@@ -1,0 +1,5 @@
+orhan pamuk|kırmızı saçlı kadın|yapı kredi yayınları|2016
+patrick süskind|koku|can yayınları|2017
+george orwell|hayvan çiftliği|can yayınları|2001
+franz kafka |dönüşüm|iş bankası yayınları|2001
+albert camus|yabancı|can yayınları|1996
